@@ -1,0 +1,36 @@
+#### General ####
+macos-titlebar-style = tabs
+mouse-hide-while-typing = true
+shell-integration-features = cursor,sudo,title
+cursor-style = block
+cursor-style-blink = true
+clipboard-read = allow
+clipboard-write = allow
+
+background-opacity = 0.81
+unfocused-split-opacity = 0.5
+
+#### Fonts ####
+window-title-font-family = Berkeley Mono
+font-family = Berkeley Mono Variable
+font-family = Berkeley Mono
+font-variation = wght=160
+font-size = 10
+
+# Turn off ligatures
+font-feature = -dlig
+font-feature = -liga
+font-feature = -calt
+
+#### Keys ####
+macos-option-as-alt = true
+
+#### Colors ####
+background = 2d2a2e
+foreground = fcfcfa
+cursor-color = c1c0c0
+selection-background = ffd766
+selection-foreground = 19181a
+
+window-width = 135
+window-height = 35
